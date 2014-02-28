@@ -8,9 +8,13 @@
 class ScriptKiddie{
 
     var $arr = array(
-        'current_client_id' =>  1337,
-        'member_uniq_id' =>  3371,
-        'session_identity' =>  7133
+        'current_client_id'     =>  17,
+        'member_unique_id'      =>  284,
+        'session_identity'      =>  4547,
+        'user_level_for_log'    =>  'user',
+        'log_identity'          =>  472,
+        'ipv4_load_balancer'    => '10.0.0.17',
+        'privileges_level_id'   =>  3
     );
     var $client_ip = '';
 

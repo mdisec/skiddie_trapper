@@ -7,4 +7,4 @@
  */
 include('skiddie.class.php');
 $test = new ScriptKiddie();
-$test->detect_kiddie();
+echo $test->detect_kiddie();
