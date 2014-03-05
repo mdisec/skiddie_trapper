@@ -21,3 +21,7 @@ IMPORTANT: Be sure any of skiddie_trapper input name is not conflict with your a
 DEMO
 ===============
 Simple PHP implementation can be found under the demo folder. 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmetince/skiddie_trapper/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
